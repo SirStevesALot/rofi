@@ -9,3 +9,7 @@ The selected text colour can be changed by modifying the text-color under 'eleme
 On Debian / Ubuntu : apt-get install rofi <br>
 On Arch / Arch-based : pacman -S rofi <br>
 On Fedora : dnf install rofi
+
+## Screenshot
+
+<img width="2560" height="1434" alt="glass-rofi-github" src="https://github.com/user-attachments/assets/1ac52249-3aef-427f-b71e-0e7ec8bf7a4d" />
