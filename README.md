@@ -1,5 +1,7 @@
 A minimal theme for rofi that displays your wallpaper and the menu list, nothing else.
 
+The file must go in the /usr/share/rofi/themes directory. It can then be selected from the theme selector.
+
 It uses the Inter font, so you will need to install that (or change it to your preference).
 
 The selected text colour can be changed by modifying the text-color under 'element-text selected'.
